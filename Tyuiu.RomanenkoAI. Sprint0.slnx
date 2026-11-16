@@ -14,4 +14,9 @@
     <Project Path="Tyuiu.RomanenkoAI. Sprint0.Task2.V0.Test/Tyuiu.RomanenkoAI. Sprint0.Task2.V0.Test.vcxproj" />
     <Project Path="Tyuiu.RomanenkoAI. Sprint0.Task2.V0/Tyuiu.RomanenkoAI. Sprint0.Task2.V0.vcxproj" Id="b2faf9b0-f70d-4b2e-916b-4b42f94cb88a" />
   </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.RomanenkoAI. Sprint0.Task3.V0.Lib/Tyuiu.RomanenkoAI. Sprint0.Task3.V0.Lib.vcxproj" Id="003f71ae-ed82-4d9b-adb9-6b675bbe397b" />
+    <Project Path="Tyuiu.RomanenkoAI. Sprint0.Task3.V0.Test/Tyuiu.RomanenkoAI. Sprint0.Task3.V0.Test.vcxproj" />
+    <Project Path="Tyuiu.RomanenkoAI. Sprint0.Task3.V0/Tyuiu.RomanenkoAI. Sprint0.Task3.V0.vcxproj" Id="41b7a7d2-ff77-49c4-b4d0-400af437bc1a" />
+  </Folder>
 </Solution>
